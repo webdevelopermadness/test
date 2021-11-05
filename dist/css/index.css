@@ -1,0 +1,43 @@
+.container {
+  background-color: #31bd0f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.box1 {
+  background-color: blue;
+  height: 200px;
+  width: 150px;
+}
+
+.box2 {
+  background-color: red;
+  height: 200px;
+  width: 150px;
+}
+
+.box3 {
+  background-color: greenyellow;
+  height: 200px;
+  width: 150px;
+}
+
+.box4 {
+  background-color: #ff006a;
+  height: 200px;
+  width: 150px;
+}
+
+.box5 {
+  background-color: #db9209;
+  height: 200px;
+  width: 150px;
+}
+
+.box6 {
+  background-color: #756e6e;
+  height: 200px;
+  width: 150px;
+}
+/*# sourceMappingURL=index.css.map */
